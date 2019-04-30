@@ -1,0 +1,79 @@
+{
+	"ImportPath": "beeapi",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/config",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context/param",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/grace",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/logs",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/orm",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/session",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/toolbox",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils",
+			"Comment": "v1.11.1-113-g610f27d",
+			"Rev": "610f27d6849e227d2b5ff24c5573e071207cc730"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.4.0-20-gbc5e6ea",
+			"Rev": "bc5e6eaa6d4fc8a7c8668050c7b1813afeafcabe"
+		},
+		{
+			"ImportPath": "github.com/shiena/ansicolor",
+			"Rev": "a422bbe96644373c5753384a59d678f7d261ff10"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "df01cb2cc480549d72034218dd98bf97671450ac"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "df01cb2cc480549d72034218dd98bf97671450ac"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.2.2-1-g7b8349a",
+			"Rev": "7b8349ac747c6a24702b762d2c4fd9266cf4f1d6"
+		}
+	]
+}
